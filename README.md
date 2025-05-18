@@ -26,7 +26,7 @@ A simple Python script to update the **artist** and/or **album** metadata tags f
 1. Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/yourusername/mp3-metadata-tagger.git
+git clone https://github.com/prof-abdelrahman/mp3-artist-tagger.git
 cd mp3-metadata-tagger
 ```
 
