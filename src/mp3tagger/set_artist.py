@@ -1,3 +1,7 @@
+import os
+from mutagen.easyid3 import EasyID3
+from mutagen.id3 import ID3NoHeaderError
+
 def set_metadata(folder_path, artist_name=None, album_name=None):
     folder_path = os.path.expanduser(folder_path)
 
