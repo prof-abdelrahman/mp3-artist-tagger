@@ -5,8 +5,8 @@ description = "A Python package for updating MP3 file metadata."
 authors = ["Abdelrahman Shehata <dr.abdelrahman.nabil@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/yourusername/mp3-tagger"
-repository = "https://github.com/yourusername/mp3-tagger"
+homepage = "https://github.com/prof-abdelrahman/mp3-tagger"
+repository = "https://github.com/prof-abdelrahman/mp3-tagger"
 keywords = ["mp3", "metadata", "tagging", "audio"]
 
 [tool.poetry.dependencies]
