@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mp3tagger"
-version = "0.1.0"
+version = "0.0.1"
 description = "A Python package for updating MP3 file metadata."
 authors = ["Abdelrahman Shehata <dr.abdelrahman.nabil@gmail.com>"]
 license = "MIT"
