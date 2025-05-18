@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mp3tagger"
+version = "0.1.0"
+description = "A Python package for updating MP3 file metadata."
+authors = ["Abdelrahman Shehata <dr.abdelrahman.nabil@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/yourusername/mp3-tagger"
+repository = "https://github.com/yourusername/mp3-tagger"
+keywords = ["mp3", "metadata", "tagging", "audio"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+mutagen = "^1.45.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
